@@ -1,4 +1,4 @@
-# Dataflow PubSub Demo
+# Dataflow GCP
 
 ## Requirements
 
@@ -58,3 +58,7 @@ gcloud pubsub topics publish <google_pubsub_topic_id> --message='{"title": "Hi!"
 ```
 
 - Docker process can now be interrupted. Dataflow job won't be affected by this action. Job can be still manually managed from the console.
+
+## Demo
+
+https://user-images.githubusercontent.com/23015711/172703129-e7377169-f7b5-4040-a235-b62681ee2b3a.mov
