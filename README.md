@@ -1,5 +1,7 @@
 # Dataflow GCP
 
+This teraform repository sets up a Dataflow pipeline for inserting data into BigQuery via publishing messages on PubSub.
+
 ## Requirements
 
 - Terraform
